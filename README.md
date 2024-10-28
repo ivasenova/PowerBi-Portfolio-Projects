@@ -12,3 +12,4 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 I love working with data and finding the stories hidden within it. Over the years, I’ve gotten good at turning flat data into meaningful insights, that people can use. I enjoy creating interactive dashboards and helping teams make decisions based on real numbers. In this portfolio, you’ll see examples of my work in Power BI, showing how I turn complex data into visuals that are easy to understand and act on.
 
+#Project: Sales Dashboard
