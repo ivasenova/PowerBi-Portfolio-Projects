@@ -13,20 +13,20 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 I love working with data and finding the stories hidden within it. Over the years, I’ve gotten good at turning flat data into meaningful insights, that people can use. I enjoy creating interactive dashboards and helping teams make decisions based on real numbers. In this portfolio, you’ll see examples of my work in Power BI, showing how I turn complex data into visuals that are easy to understand and act on.
 
-# Project: Marketing Campaigns Performance
-
-
-<a href = "https://www.novypro.com/project/marketing-campaigns-performance">➡️Here you can explore and interact with my project on NovyPro!⬅️</a>
-
-https://github.com/user-attachments/assets/faf608a3-e465-4bc7-b191-b49aab4a65ed
-
-
 # Project: HR Report 
 
 
 <a href = "https://www.novypro.com/project/hr-report-22">➡️Here you can explore and interact with my project on NovyPro!⬅️</a>
 
 https://github.com/user-attachments/assets/8f36d04b-3a5a-44fb-846d-6b973998e6cf
+
+
+# Project: Marketing Campaigns Performance
+
+
+<a href = "https://www.novypro.com/project/marketing-campaigns-performance">➡️Here you can explore and interact with my project on NovyPro!⬅️</a>
+
+https://github.com/user-attachments/assets/faf608a3-e465-4bc7-b191-b49aab4a65ed
 
 
 # Project: Sales Performance Report 
